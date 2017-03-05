@@ -1,0 +1,13 @@
+.container-fluid {
+	padding: 20px 400px;
+	background: url(../img/spring.jpg) no-repeat center center fixed;
+	background-color: rgb(217, 238, 231);
+}
+
+body, #breadcrumb-list {
+	padding-top: 20px;
+}
+
+.table-bordered {
+background-color:  rgba(255, 255, 255, 0.74)
+}
